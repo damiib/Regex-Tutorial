@@ -2,8 +2,11 @@
 
 This is an example of email regex.  I will give an example of matching of email letters and characters. When we write [a,b,c,d] this means any of these letters can be used.  When we write [^a,b,c,d] this means any letter but a,b,c,d.  When we write [A-Z] it means any captipal letter from A-Z.  When we write [0-9], it means and number from 0-9.  When we write [^0-9], it means any number except for 0-9. Here is the email that I will do as an example: damali_5@gmail.com. It will be written like this [A-Za-z 0-9 _] +[@] [a-z] +[\a-z]{2,3}
 ## Summary
+I chose emails because emails are something everyone uses in today's society.  Email security is important because most emails contain delicate information.  This information is personal and something that everyone does not need to see.  One of the ways you can keep your emails secured is by using unique passwords and word phrases. Having a difficult password will keep hackers from easily breaking into your emails.
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+
+In my tutorial, I used anchors, bracket expressions, grouping constructors and character excape.
 
 ## Table of Contents
 
