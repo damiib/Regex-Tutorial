@@ -62,3 +62,6 @@ Character escapes is when a backslash is used in your code.  You could use the b
 
 I am a coder who is enjoying coding.  I am learning more everyday to improve my skills and to make myself an amazing developer.  
 https://github.com/damiib 
+
+
+<!-- The assignment gave us the option to only do the Regex that we used.  I did not delete the ones that I used so I can refer back to this when needed -->
